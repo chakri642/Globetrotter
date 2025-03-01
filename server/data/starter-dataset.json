@@ -1,0 +1,312 @@
+[
+    {
+      "id": 1,
+      "name": "Eiffel Tower",
+      "city": "Paris",
+      "country": "France",
+      "continent": "Europe",
+      "coordinates": {
+        "latitude": 48.8584,
+        "longitude": 2.2945
+      },
+      "clues": [
+        "I was built for a World's Fair in 1889",
+        "I was once the tallest man-made structure in the world",
+        "I'm made of iron and have three levels for visitors",
+        "I light up spectacularly at night, with a sparkling display every hour"
+      ],
+      "funFacts": [
+        "The Eiffel Tower was initially intended to be a temporary structure",
+        "It takes 20,000 light bulbs to make the Eiffel Tower sparkle at night",
+        "The Eiffel Tower grows by up to 15 cm (6 inches) in summer due to thermal expansion",
+        "Gustave Eiffel had an apartment at the top where he entertained guests like Thomas Edison"
+      ],
+      "trivia": [
+        "During cold weather, the tower shrinks by about 6 inches",
+        "It takes 60 tons of paint to cover the Eiffel Tower",
+        "The Eiffel Tower was almost demolished in 1909",
+        "There's a secret military bunker underneath the tower"
+      ],
+      "difficulty": "easy",
+      "category": "landmarks"
+    },
+    {
+      "id": 2,
+      "name": "Machu Picchu",
+      "city": "Cusco Region",
+      "country": "Peru",
+      "continent": "South America",
+      "coordinates": {
+        "latitude": -13.1631,
+        "longitude": -72.5450
+      },
+      "clues": [
+        "I'm an ancient citadel sitting high in the mountains, built in the 15th century",
+        "I was 'lost' to the outside world until 1911 when an explorer rediscovered me",
+        "My stone structures were built without mortar, with blocks cut to fit together perfectly",
+        "I sit nearly 8,000 feet above sea level with a dramatic mountain backdrop"
+      ],
+      "funFacts": [
+        "Machu Picchu means 'Old Peak' or 'Old Mountain' in the Quechua language",
+        "The site contains over 150 buildings ranging from temples to sanctuaries",
+        "It was built without the use of wheels, iron tools, or mortar",
+        "Many archaeologists believe it was built as an estate for Emperor Pachacuti"
+      ],
+      "trivia": [
+        "The citadel has a sophisticated drainage system that prevents flooding during heavy rains",
+        "The famous Intihuatana stone functions as a solar clock",
+        "Many of the site's buildings have astronomical alignments",
+        "Visitors are not allowed to enter with walking sticks unless they are elderly or disabled"
+      ],
+      "difficulty": "medium",
+      "category": "ancient sites"
+    },
+    {
+      "id": 3,
+      "name": "Taj Mahal",
+      "city": "Agra",
+      "country": "India",
+      "continent": "Asia",
+      "coordinates": {
+        "latitude": 27.1751,
+        "longitude": 78.0421
+      },
+      "clues": [
+        "I'm a white marble mausoleum built by an emperor in memory of his favorite wife",
+        "My name translates to 'Crown of Palaces'",
+        "I'm one of the New Seven Wonders of the World",
+        "I appear to change color depending on the time of day"
+      ],
+      "funFacts": [
+        "The Taj Mahal took approximately 22 years to complete",
+        "Over 20,000 workers and 1,000 elephants were used to build it",
+        "The four minarets surrounding the tomb were designed to lean slightly outward to protect the main structure in case they collapsed",
+        "The precious stones used for inlay work were sourced from all over Asia"
+      ],
+      "trivia": [
+        "The calligraphy on the Great Gate increases in size as it reaches the top, creating the illusion of uniform size when viewed from below",
+        "There's a myth that Shah Jahan planned to build a mirror image of the Taj Mahal in black marble on the opposite bank of the river",
+        "During World War II, scaffolding was erected around the dome to mislead bomber pilots",
+        "The tomb changes color throughout the day – pinkish in the morning, white in the evening, and golden in the moonlight"
+      ],
+      "difficulty": "easy",
+      "category": "landmarks"
+    },
+    {
+      "id": 4,
+      "name": "Great Barrier Reef",
+      "city": "Queensland",
+      "country": "Australia",
+      "continent": "Oceania",
+      "coordinates": {
+        "latitude": -18.2871,
+        "longitude": 147.6992
+      },
+      "clues": [
+        "I'm the world's largest coral reef ecosystem",
+        "I'm so large I can be seen from outer space",
+        "I'm home to more than 1,500 species of fish",
+        "I stretch for over 2,300 kilometers along a coastline"
+      ],
+      "funFacts": [
+        "The Great Barrier Reef is composed of over 2,900 individual reefs and 900 islands",
+        "It's home to 30 species of whales, dolphins, and porpoises",
+        "The reef has been around for about 500,000 years in various forms",
+        "It's the world's biggest single structure made by living organisms"
+      ],
+      "trivia": [
+        "The blue starfish found on the reef is actually its own species, not just a color variation",
+        "The reef generates about $6 billion per year in tourism",
+        "There are 6 species of sea turtles that come to the reef to breed",
+        "Scientists have found medicinal compounds in reef organisms that can be used to treat diseases like cancer"
+      ],
+      "difficulty": "medium",
+      "category": "natural wonders"
+    },
+    {
+      "id": 5,
+      "name": "Santorini",
+      "city": "Thira",
+      "country": "Greece",
+      "continent": "Europe",
+      "coordinates": {
+        "latitude": 36.3932,
+        "longitude": 25.4615
+      },
+      "clues": [
+        "I'm a volcanic island known for my stunning white buildings with blue domes",
+        "I'm believed by some to be the location of the lost city of Atlantis",
+        "My sunset views are considered among the most beautiful in the world",
+        "I have distinctive beaches with black, red, and white sand"
+      ],
+      "funFacts": [
+        "Santorini is essentially what remains after an enormous volcanic eruption that created a caldera",
+        "The island's official name is Thira, though Santorini is more commonly used",
+        "Houses are painted white to reflect the harsh summer sun",
+        "The island's volcanic soil contributes to its unique wine production"
+      ],
+      "trivia": [
+        "Santorini has no natural water sources, so most water is collected from rainfall or imported",
+        "The island's volcanic eruption around 1600 BCE was one of the largest in recorded history",
+        "There are only a handful of swimming pools on the island due to water scarcity",
+        "The local tomato varieties are uniquely sweet due to the volcanic soil"
+      ],
+      "difficulty": "medium",
+      "category": "islands"
+    },
+    {
+      "id": 6,
+      "name": "Pyramids of Giza",
+      "city": "Giza",
+      "country": "Egypt",
+      "continent": "Africa",
+      "coordinates": {
+        "latitude": 29.9792,
+        "longitude": 31.1342
+      },
+      "clues": [
+        "I'm the oldest of the Seven Wonders of the Ancient World, and the only one still in existence",
+        "I'm a complex of three main structures built as tombs for pharaohs",
+        "I was built using more than 2 million stone blocks, each weighing 2-30 tons",
+        "I've stood in my desert location for more than 4,500 years"
+      ],
+      "funFacts": [
+        "The Great Pyramid was the tallest man-made structure for over 3,800 years",
+        "The pyramids align almost perfectly with the cardinal points of a compass",
+        "They were originally covered with polished limestone that would have shone brilliantly in the sun",
+        "The largest pyramid was built for the Pharaoh Khufu and took about 20 years to build"
+      ],
+      "trivia": [
+        "The temperature inside the pyramids stays constant at about 20°C (68°F)",
+        "No mummies were actually found in the three main pyramids of Giza",
+        "Modern scientists still aren't entirely sure how the pyramids were built",
+        "The Great Pyramid of Giza is estimated to contain 2.3 million stone blocks"
+      ],
+      "difficulty": "easy",
+      "category": "ancient sites"
+    },
+    {
+      "id": 7,
+      "name": "Northern Lights",
+      "city": "Tromsø",
+      "country": "Norway",
+      "continent": "Europe",
+      "coordinates": {
+        "latitude": 69.6492,
+        "longitude": 18.9553
+      },
+      "clues": [
+        "I'm a natural light display in the sky, particularly in high-latitude regions",
+        "I'm also known as Aurora Borealis in the northern hemisphere",
+        "I'm caused by disturbances in the magnetosphere by solar wind",
+        "I display dynamic patterns of brilliant lights that appear as curtains, rays, spirals, or flickers"
+      ],
+      "funFacts": [
+        "The Northern Lights occur when charged particles from the sun hit atoms in Earth's atmosphere",
+        "Different gases produce different colors - oxygen creates green and red, nitrogen creates blue and purple",
+        "They're visible from space and astronauts often photograph them from the International Space Station",
+        "The best time to see them is usually between September and March when dark hours are longest"
+      ],
+      "trivia": [
+        "The Vikings believed the Northern Lights were reflections from the shields of the Valkyries",
+        "In Finnish Lapland, they're called 'revontulet', meaning 'fox fires'",
+        "Some indigenous peoples believed whistling at the lights would summon them closer",
+        "There's a Southern Hemisphere equivalent called Aurora Australis or Southern Lights"
+      ],
+      "difficulty": "medium",
+      "category": "natural phenomena"
+    },
+    {
+      "id": 8,
+      "name": "Mount Fuji",
+      "city": "Honshu",
+      "country": "Japan",
+      "continent": "Asia",
+      "coordinates": {
+        "latitude": 35.3606,
+        "longitude": 138.7274
+      },
+      "clues": [
+        "I'm the highest mountain in my country, at 3,776 meters",
+        "I'm an active volcano that last erupted in 1707",
+        "I'm considered sacred and have been a pilgrimage site for centuries",
+        "I'm known for my perfectly symmetrical cone shape"
+      ],
+      "funFacts": [
+        "Mount Fuji is actually three separate volcanoes stacked one on top of the other",
+        "The official climbing season is only two months long, from July to August",
+        "It was added to the World Heritage List as a Cultural Site in 2013",
+        "Over 200,000 people climb to the summit each year"
+      ],
+      "trivia": [
+        "There are more than 30 'suicide forests' at the base of Mount Fuji",
+        "The first person to climb Mount Fuji was a monk in 663 CE",
+        "Women were forbidden from climbing Mount Fuji until 1868",
+        "The mountain is divided into 10 stations, with paved roads going as far as the 5th station"
+      ],
+      "difficulty": "medium",
+      "category": "mountains"
+    },
+    {
+      "id": 9,
+      "name": "Grand Canyon",
+      "city": "Arizona",
+      "country": "United States",
+      "continent": "North America",
+      "coordinates": {
+        "latitude": 36.0544,
+        "longitude": -112.2401
+      },
+      "clues": [
+        "I'm a steep-sided canyon carved by a river over millions of years",
+        "I'm 277 miles (446 km) long and up to 18 miles (29 km) wide",
+        "My colorful landscape takes on amazing hues at sunrise and sunset",
+        "I expose nearly two billion years of Earth's geological history"
+      ],
+      "funFacts": [
+        "The Grand Canyon was formed by the Colorado River cutting channels through layers of rock over millions of years",
+        "It's not the deepest canyon in the world, but it's known for its overwhelming size and intricate landscape",
+        "The temperature at the bottom can be more than 20°F (11°C) warmer than at the rim",
+        "It contains some of the oldest exposed rock on Earth, dating back about 2 billion years"
+      ],
+      "trivia": [
+        "There's a small village called Supai at the bottom of the canyon that receives its mail by mule",
+        "About 5 million people visit the Grand Canyon each year",
+        "An inversion layer can sometimes fill the canyon with fog, creating a spectacular sight",
+        "There are approximately 1,000 caves in the Grand Canyon, but only 335 have been documented"
+      ],
+      "difficulty": "easy",
+      "category": "natural wonders"
+    },
+    {
+      "id": 10,
+      "name": "Victoria Falls",
+      "city": "Livingstone",
+      "country": "Zambia/Zimbabwe",
+      "continent": "Africa",
+      "coordinates": {
+        "latitude": -17.9243,
+        "longitude": 25.8572
+      },
+      "clues": [
+        "I'm one of the largest waterfalls in the world, based on combined width and height",
+        "I'm known locally as 'The Smoke That Thunders'",
+        "I form the border between two countries",
+        "I was named by a Scottish explorer for his queen"
+      ],
+      "funFacts": [
+        "Victoria Falls is the only waterfall in the world with a length of more than a kilometer and a height of more than 100 meters",
+        "During the rainy season, over 500 million liters of water plummet over the edge every minute",
+        "The spray from the falls can be seen from up to 50 km away",
+        "A naturally formed 'Devil's Pool' allows swimmers to safely sit at the edge of the falls during certain seasons"
+      ],
+      "trivia": [
+        "A lunar rainbow or 'moonbow' can sometimes be seen over Victoria Falls at night during a full moon",
+        "The falls are part of two national parks: Mosi-oa-Tunya National Park in Zambia and Victoria Falls National Park in Zimbabwe",
+        "There are over 75 species of fish below the falls",
+        "David Livingstone, who 'discovered' the falls for Europeans, wrote that they were scenes 'so lovely must have been gazed upon by angels in their flight'"
+      ],
+      "difficulty": "medium",
+      "category": "natural wonders"
+    }
+  ]
